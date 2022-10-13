@@ -9,4 +9,12 @@ var result;
 if(n === 0){
     console.log(n);
 }
+else{
+    result = parseInt(inputs[0]);
+       if(t > 0){
+        result = t;
+        }
+    }
+
+
 
